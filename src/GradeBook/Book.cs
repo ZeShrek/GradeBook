@@ -13,9 +13,13 @@ namespace GradeBook
 
         public void AddGrade(double grade)
         {
-            if (grade > 0)
+            if (grade >= 0 && grade <= 100)
             {
                 grades.Add(grade);
+            }
+            else
+            {
+               throw new ArgumentException($"Invalid {nameof(grade)}");
             }
 
         }
@@ -29,21 +33,43 @@ namespace GradeBook
             result.Low = double.MaxValue;
             result.High = double.MinValue;
 
-            foreach (double grade in grades)
+            for (var index = 0; index < grades.Count; index++)
             {
-                result.Low = Math.Min(grade, result.Low);
-                result.High = Math.Max(grade, result.High);
-                result.Average += grade;
+                result.Low = Math.Min(grades[index], result.Low);
+                result.High = Math.Max(grades[index], result.High);
+                result.Average += grades[index];
             }
 
             result.Average = result.Average / grades.Count;
 
+            switch (result.Average)
+            {
+                case var d when d >= 90.0:
+                    result.LetterGrade = 'A';
+                    break;
+
+                case var d when d >= 80.0:
+                    result.LetterGrade = 'B';
+                    break;
+
+                case var d when d >= 70.0:
+                    result.LetterGrade = 'C';
+                    break;
+
+                case var d when d >= 60.0:
+                    result.LetterGrade = 'D';
+                    break;
+
+                case var d when d >= 50.0:
+                    result.LetterGrade = 'E';
+                    break;
+
+                default:
+                    result.LetterGrade = 'F';
+                    break;
+            }
+
             return result;
-        }
-
-        public void ShowStatistics()
-        {
-
         }
 
         //List<double> grades = new List<double>(); //one way of doing it
