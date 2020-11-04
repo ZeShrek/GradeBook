@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pluralsight\\C# Path\\fund\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "D:\\Pluralsight\\C# Path\\fund\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "D:\\Pluralsight\\C# Path\\fund\\gradebook\\src\\GradeBook\\obj\\",
+      "outputPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

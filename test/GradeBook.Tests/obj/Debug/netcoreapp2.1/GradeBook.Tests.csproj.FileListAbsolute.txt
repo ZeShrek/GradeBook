@@ -15,3 +15,20 @@ D:\Pluralsight\C# Path\fund\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2
 D:\Pluralsight\C# Path\fund\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.dll
 D:\Pluralsight\C# Path\fund\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.pdb
 D:\Pluralsight\C# Path\fund\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.csproj.CopyComplete
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.deps.json
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.runtimeconfig.json
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.runtimeconfig.dev.json
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.dll
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.pdb
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.dll
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.pdb
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.csprojAssemblyReference.cache
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.csproj.CoreCompileInputs.cache
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.AssemblyInfoInputs.cache
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.AssemblyInfo.cs
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.csproj.CopyComplete
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.dll
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.pdb

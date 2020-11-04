@@ -5879,11 +5879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pluralsight\\C# Path\\fund\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "D:\\Pluralsight\\C# Path\\fund\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "D:\\Pluralsight\\C# Path\\fund\\gradebook\\test\\GradeBook.Tests\\obj\\",
+      "outputPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\test\\GradeBook.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5897,8 +5897,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Pluralsight\\C# Path\\fund\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "D:\\Pluralsight\\C# Path\\fund\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+            "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }
