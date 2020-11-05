@@ -20,3 +20,4 @@ D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\src
 D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
 D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
 D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
+D:\Pluralsight\C# Path\C# Development Fundamentals\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.genruntimeconfig.cache
