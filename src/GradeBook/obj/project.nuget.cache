@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "afuapTenbrWPHtnHWKB1r9pOGLS8wgN0zo7DK9Qov2ADZyy8C8S44bCdQqJWTtkCLK8tiSbp6FagPwLTdM8Z9Q==",
+  "dgSpecHash": "di3u1L6eoifLub6y/jLUelH0jY2Wu1zF4cubUkZCfrCFXzyoB9QD13TZN0mmiaxXEMDUv5ZzSmqPJriEszXh7w==",
   "success": true,
-  "projectFilePath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\Gradebook.csproj",
+  "projectFilePath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

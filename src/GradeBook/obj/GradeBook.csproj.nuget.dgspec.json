@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\Gradebook.csproj": {}
+    "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\Gradebook.csproj": {
+    "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\Gradebook.csproj",
-        "projectName": "Gradebook",
-        "projectPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\Gradebook.csproj",
+        "projectUniqueName": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectName": "GradeBook",
+        "projectPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
         "outputPath": "D:\\Pluralsight\\C# Path\\C# Development Fundamentals\\C# Fundamentals\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
